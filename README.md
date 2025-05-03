@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed:
     ```bash
     # If using Git
     git clone <your-repository-url>
-    cd Blog-BE
+    cd Blog---BE
     ```
     (Replace `<your-repository-url>` if applicable, otherwise just navigate to the project directory )
 
